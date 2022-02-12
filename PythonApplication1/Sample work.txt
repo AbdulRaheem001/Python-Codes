@@ -1,0 +1,56 @@
+#      #C++
+  
+         
+## cout <<"Hellow World";    
+##int mum=100;
+##String num2="Hi";
+##cout<<num<<"     "<<num2;
+    
+
+#        #Python
+
+#    # is single line comment in python   """  .....""" This is multi line commants .
+
+
+  
+
+#print("Hellow World")
+#num=100                 #int  no use to defin data type
+#num2="Hi"               #String
+#print(num,"       ",num2) 
+#num="I am good"
+#print(num)              #data type can be eaysly change
+
+
+
+#                        # Arrays in pythons
+
+#num3 = []
+#num3.append(60)
+#num3.append("Hi")
+#num3.append(50.98)
+
+#print(num3)
+
+#                    # Input 
+#                    #return type of input is sytring if we want to convert to intiger the we use
+#name =input("Enter your name ")
+#print("Hello ",name)
+
+#num=int(input("Enter your age "))
+#print ("Age ",num)
+
+#if(num<10):
+#    print("You are child")
+#elif(num<25):
+#    print("You are Teen ager")
+#else:
+#    print("You are old")
+#       #Function in Pythons
+#def Function():
+#    #body Start
+#    print("Hellow I am function body")
+#    #body End
+
+#print("Function calling") 
+#Function()
